@@ -1,0 +1,1 @@
+Project: Create a sketchpad/Etch-A-Sketch page using HTML, CSS, and JavaScript.
